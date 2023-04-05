@@ -4,7 +4,7 @@
 }
 
 main {
-    width: 55vh;
+    width: 520px;
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
 
 img {
     height: 350px;
-    width: 55vh;
+    width: 500px;
     margin: -5px;
 }
 
@@ -42,6 +42,7 @@ p {
 /*Tela 1*/
 #menu01 {
     font-size: 1.1em;
+    width: 500px;
     padding: 1px;
     background-color: rgb(142, 154, 27);
  }
@@ -61,16 +62,17 @@ p {
 .menu02 {
     padding: 5px;
     font-size: 0.9em;
+    width: 500px;
     text-align: center;
     background-color: rgb(142, 154, 27);
     color: white;
-    height: 200px;
+   
 }
 #cadastro {
-    width: 412px;
+    width: 265px;
 }
 #cadastro3 {
-    width: 320px;
+    width: 170px;
 }
 /*----*/
 
@@ -81,6 +83,7 @@ h2 {
     text-align: center;
 }
 .menu03 {
+    width: 500px;
     padding: 10px;
     font-size: 1.2em;
     text-align: center;
@@ -104,6 +107,7 @@ h2 {
 }
 .menu04 {
     padding: 10px;
+    width: 500px;
     font-size: 1.2em;
     text-align: center;
     background-color: rgb(142, 154, 27);
@@ -125,6 +129,7 @@ h2 {
 
 /*Tela 5*/
 .menu05 {
+    width: 500px;
     padding: 10px;
     font-size: 1.2em;
     text-align: center;
@@ -150,10 +155,3 @@ h2 {
 }
 
 /*---*/
-
-footer {
-    text-align: center;
-    position: relative;
-    bottom: -250px;
-    background-color: rgb(142, 154, 27);
-}
