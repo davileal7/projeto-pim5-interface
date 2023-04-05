@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+main {
+    width: 55vh;
+}
+
 h1 {
     background-color: rgb(142, 154, 27);
     color: white;
@@ -13,6 +17,7 @@ h1 {
 
 img {
     height: 350px;
+    width: 55vh;
     margin: -5px;
 }
 
